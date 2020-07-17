@@ -1,0 +1,14 @@
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\NN2.exe.config
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\NN2.exe
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\NN2.pdb
+C:\Users\Michael\source\repos\NN2\NN2\obj\Debug\NN2.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\NN2\NN2\obj\Debug\NN2.exe
+C:\Users\Michael\source\repos\NN2\NN2\obj\Debug\NN2.pdb
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\source\repos\NN2\NN2\obj\Debug\NN2.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\NN2\NN2\obj\Debug\NN2.csproj.CopyComplete
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\EntityFramework.dll
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\EntityFramework.xml
+C:\Users\Michael\source\repos\NN2\NN2\bin\Debug\EntityFramework.SqlServer.xml
